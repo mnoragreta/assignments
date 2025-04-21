@@ -1,7 +1,7 @@
 # assignments
 Take-Home Assignments – Data Analytics Portfolio
 Welcome to my data analytics assignment portfolio!
-This repository contains a series of take-home challenges completed for various companies as part of their recruitment processes. Each lettered section (A, B, C, D) corresponds to a different company, and includes Jupyter notebooks, data analyses, and presentation materials.
+This repository contains a series of take-home challenges completed for various companies: Each lettered section (A, B, C, D) corresponds to a different one, and includes Jupyter notebooks, data analyses, and presentation materials.
 
 📁 A – Global Supply Analytics & Logistics Insights
 A.1 – Commercial Interaction Analysis (Jupyter Notebook)
